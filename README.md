@@ -1,6 +1,6 @@
 # Banking App in ReactJS
 
-![Banking App Screenshot](createacc.png)
+![Banking App Screenshot](ceateacc.png)
 ![Banking App Screenshot](fundtr.png)
 
 The user is a bank employee who manually manages the bank's accounts.
